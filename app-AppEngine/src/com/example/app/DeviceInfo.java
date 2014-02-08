@@ -42,6 +42,7 @@ public class DeviceInfo {
   /*
    * Timestamp indicating when this device registered with the application.
    */
+  //afasdfasdf
   private long timestamp;
 
   public String getDeviceRegistrationID() {
